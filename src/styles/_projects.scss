@@ -17,18 +17,21 @@
   */
 }
 
-a:hover{
- text-decoration: underline; 
+#allProjects{
+  display: flex;
+  flex-direction: column;
+  padding: 0 15%;
 }
 
-a#projectsMore{
- font-size:18px; 
- text-decoration:none; 
- text-decoration-color:yellow; 
+#projectsMore{
+ font-size:19px; 
+ text-decoration:none;
+ 
 }
 
 #projectsMore:hover{
   text-decoration: underline; 
+  cursor: pointer;
 }
 
 .user-projects {
