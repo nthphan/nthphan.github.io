@@ -17,6 +17,20 @@
   */
 }
 
+a:hover{
+ text-decoration: underline; 
+}
+
+a#projectsMore{
+ font-size:18px; 
+ text-decoration:none; 
+ text-decoration-color:yellow; 
+}
+
+#projectsMore:hover{
+  text-decoration: underline; 
+}
+
 .user-projects {
   margin: 20px auto;
   img {
