@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 
+html {
+  display: table;
+  width: 100%;
+}
+
 body {
     margin: 0;
     padding: 0;
@@ -42,4 +47,3 @@ a img {
 sup, sub {
     line-height: 0;
 }
-

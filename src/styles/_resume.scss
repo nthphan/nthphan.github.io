@@ -1,0 +1,23 @@
+#resume {
+  display: flex;
+  flex-direction: column;
+  padding: 0 15%;
+}
+
+#downloadResume {
+  font-size: 1rem;
+  color: #4B0082;
+  text-decoration: none;
+}
+
+#downloadResume:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+#iframe {
+  height: 715px;
+  width: 55%;
+  display: inline-block;
+  vertical-align: middle;
+}
