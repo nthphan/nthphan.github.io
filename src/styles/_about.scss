@@ -10,8 +10,16 @@
   }*/
 }
 
+.experienceImg{
+  display: block;
+  max-width: 315px;
+  height: auto;
+}
+
 .tech {
   margin: 10px;
+  padding: 30px;
+  box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.15), 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
 }
 
 .user {
@@ -32,5 +40,5 @@
 
 .user-details {
   text-align: left;
-  
+
 }
