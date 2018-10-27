@@ -3,6 +3,19 @@
 	background: $main;
 }
 
+.line {
+	text-align: center;
+}
+
+#resume {
+	display: block;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+
+/*********************************************************/
+
 .card {
   position: relative;
   display: -ms-flexbox;
@@ -15,7 +28,7 @@
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.125);
   border-radius: 0.25rem;
-  color: white; 
+  color: white;
   margin-bottom: 10px;
 }
 
@@ -41,7 +54,7 @@
 }
 
 h3.card-title{
-	color: white; 
+	color: white;
 }
 
 h5.card-title{
@@ -70,9 +83,3 @@ h5.card-title{
 .card-link + .card-link {
   margin-left: 1.25rem;
 }
-
-
-
-
-
-// 
